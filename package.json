@@ -1,0 +1,23 @@
+{
+  "name": "vue-ready",
+  "version": "1.0.0",
+  "description": "给vue增加一个ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szpoppy/vue-ready.git"
+  },
+  "keywords": [
+    "vue",
+    "ready"
+  ],
+  "author": "locus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szpoppy/vue-ready/issues"
+  },
+  "homepage": "https://github.com/szpoppy/vue-ready#readme"
+}
