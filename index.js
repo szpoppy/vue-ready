@@ -26,6 +26,9 @@
         // ready 名称
         var name = init.readyName || "ready";
 
+        // 过寄参数
+        var args = init.args;
+
         // 默认的key
         var defKey = "ready";
 
@@ -95,7 +98,8 @@
         }
 
         // 执行初始化函数
-        initFn(end, vue);
+        
+        initFn(end, vue, args);
 
         var mixinOpt = {};
         mixinOpt[hook] = function () {

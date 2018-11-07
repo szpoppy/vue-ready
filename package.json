@@ -1,6 +1,6 @@
 {
   "name": "vue-ready",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "给vue增加一个ready",
   "main": "index.js",
   "scripts": {
